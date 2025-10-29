@@ -1,6 +1,6 @@
 # COURS DE SCIENCE DES DONNÉES
 Anouar LAHLOU
-<img src="image 1.jpg" style="height:600px;margin-right:600px"/>
+<img src="image 1.jpg" style="height:450px;margin-right:450px"/>
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
 ---
